@@ -14,3 +14,8 @@ Ground coffee  -                                20
 *Coffee capsules -                              25  
 *Coffee bags -                                  120 
 *Coffee tea bags -                              85
+
+
+
+# new discount plans for coffee capsules
+brought 25 sets of coffee capsules and got 2set of coffee capsules Free:.
