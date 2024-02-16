@@ -17,5 +17,4 @@ Ground coffee  -                                20
 
 
 
-# new discount plans for coffee capsules
-brought 25 sets of coffee capsules and got 2set of coffee capsules Free:.
+
